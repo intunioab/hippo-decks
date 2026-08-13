@@ -1,0 +1,12 @@
+{
+  "formatVersion": 1,
+  "decks": [
+    {
+      "id": "deck1-band",
+      "name": "Bandet bakom låten",
+      "version": 2,
+      "cardCount": 40,
+      "url": "decks/deck1-band/deck.json"
+    }
+  ]
+}
