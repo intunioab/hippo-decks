@@ -1,0 +1,128 @@
+{
+  "id": "deck2-siffror",
+  "name": "Sifferbiblioteket",
+  "info": "Major-systemet på svenska. Steg 1: ljudkoden 0–9. Pegorden kommer i nästa version.",
+  "version": 1,
+  "cards": [
+    {
+      "id": "kod-0",
+      "type": "ljudkod",
+      "cue": "Vilket ljud kodar siffran 0?",
+      "answer": "S och Z",
+      "semanticHint": "Tänk på engelskans ord för siffran — dess begynnelsebokstav är hela kroken.",
+      "syllableHint": "Ett väsande ljud.",
+      "syllablePlusHint": "Hörs först i SOL och ZEBRA.",
+      "decode": "S och Z = 0 — ”zero” börjar på Z, och nollan väser som en orm. Mjukt c hör hit också.",
+      "image": "",
+      "imageRole": "none"
+    },
+    {
+      "id": "kod-1",
+      "type": "ljudkod",
+      "cue": "Vilket ljud kodar siffran 1?",
+      "answer": "T och D",
+      "semanticHint": "Räkna nedstrecken i bokstaven — lika många som siffran.",
+      "syllableHint": "Två ljud som båda görs med tungspetsen mot tandvallen.",
+      "syllablePlusHint": "Hörs först i TAK och DAL.",
+      "decode": "T och D = 1 — ett enda nedstreck, precis som T:ets stapel.",
+      "image": "",
+      "imageRole": "none"
+    },
+    {
+      "id": "kod-2",
+      "type": "ljudkod",
+      "cue": "Vilket ljud kodar siffran 2?",
+      "answer": "N",
+      "semanticHint": "Räkna benen i bokstaven — lika många som siffran.",
+      "syllableHint": "Näsljudet med tungspetsen uppe.",
+      "syllablePlusHint": "Hörs först i NOS.",
+      "decode": "N = 2 — bokstaven n har två ben.",
+      "image": "",
+      "imageRole": "none"
+    },
+    {
+      "id": "kod-3",
+      "type": "ljudkod",
+      "cue": "Vilket ljud kodar siffran 3?",
+      "answer": "M",
+      "semanticHint": "Räkna benen i bokstaven — lika många som siffran.",
+      "syllableHint": "Läpparna sluts helt, ljudet går ut genom näsan.",
+      "syllablePlusHint": "Hörs först i MUS.",
+      "decode": "M = 3 — bokstaven m har tre ben, och en trea på sidan blir ett m.",
+      "image": "",
+      "imageRole": "none"
+    },
+    {
+      "id": "kod-4",
+      "type": "ljudkod",
+      "cue": "Vilket ljud kodar siffran 4?",
+      "answer": "R",
+      "semanticHint": "Ljudet gömmer sig inne i själva räkneordet.",
+      "syllableHint": "Rullande tungspetsljud.",
+      "syllablePlusHint": "Hörs först i ROS.",
+      "decode": "R = 4 — ljudet hörs mitt i fyRa.",
+      "image": "",
+      "imageRole": "none"
+    },
+    {
+      "id": "kod-5",
+      "type": "ljudkod",
+      "cue": "Vilket ljud kodar siffran 5?",
+      "answer": "L",
+      "semanticHint": "Bokstaven är en romersk siffra — femtio.",
+      "syllableHint": "Tungan mot gommen, luften rinner längs sidorna.",
+      "syllablePlusHint": "Hörs först i LOK.",
+      "decode": "L = 5 — L är romerska femtio, så vi kortar av en nolla.",
+      "image": "",
+      "imageRole": "none"
+    },
+    {
+      "id": "kod-6",
+      "type": "ljudkod",
+      "cue": "Vilket ljud kodar siffran 6?",
+      "answer": "J (och sj/tj-ljud)",
+      "semanticHint": "Ett mjukt g är en spegelvänd variant av siffran.",
+      "syllableHint": "Hit hör alla svenska sje- och tje-ljud, hur de än stavas.",
+      "syllablePlusHint": "Hörs först i JORD och SJÖ.",
+      "decode": "J (och sj/tj-ljud) = 6 — ett mjukt g är en spegelvänd sexa. Även dj, lj, gj och mjukt k räknas hit.",
+      "image": "",
+      "imageRole": "none"
+    },
+    {
+      "id": "kod-7",
+      "type": "ljudkod",
+      "cue": "Vilket ljud kodar siffran 7?",
+      "answer": "K",
+      "semanticHint": "Bokstaven är byggd av två sjuor ryggade mot varandra.",
+      "syllableHint": "Hårt gomljud — även hårt g hör hit.",
+      "syllablePlusHint": "Hörs först i KO.",
+      "decode": "K = 7 — ett K är två sjuor rygg mot rygg. Hårt g och hårt c hör hit också.",
+      "image": "",
+      "imageRole": "none"
+    },
+    {
+      "id": "kod-8",
+      "type": "ljudkod",
+      "cue": "Vilket ljud kodar siffran 8?",
+      "answer": "F och V",
+      "semanticHint": "Skrivstilens variant av bokstaven har två öglor — precis som siffran.",
+      "syllableHint": "Läpp mot tand, luften väser fram.",
+      "syllablePlusHint": "Hörs först i FOT och VAS.",
+      "decode": "F och V = 8 — skrivstilens f har två öglor, precis som en åtta.",
+      "image": "",
+      "imageRole": "none"
+    },
+    {
+      "id": "kod-9",
+      "type": "ljudkod",
+      "cue": "Vilket ljud kodar siffran 9?",
+      "answer": "P och B",
+      "semanticHint": "Vänd eller spegla bokstaven så blir den siffran.",
+      "syllableHint": "Läpparna smäller isär.",
+      "syllablePlusHint": "Hörs först i PIL och BOK.",
+      "decode": "P och B = 9 — ett P är en spegelvänd nia, ett b en roterad.",
+      "image": "",
+      "imageRole": "none"
+    }
+  ]
+}

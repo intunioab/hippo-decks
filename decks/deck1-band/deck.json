@@ -369,12 +369,12 @@
     {
       "id": "artal-sweet-child-o-mine",
       "type": "artal",
-      "cue": "Vilket år blev ”Sweet Child o’ Mine” (Guns N’ Roses) en genombrottssingel?",
-      "answer": "1988",
+      "cue": "Vilket år kom ”Sweet Child o’ Mine” (Guns N’ Roses)?",
+      "answer": "1987",
       "semanticHint": "Sent 80-tal",
-      "syllableHint": "Pegordet börjar på Vo…",
-      "syllablePlusHint": "VOVVE = V(8) + V(8)",
-      "decode": "Sweet Child o’ Mine (Guns N’ Roses): VOVVE = V(8)+V(8) = 88 → 1988. Vovven bär hitens söta unge genom rosorna.",
+      "syllableHint": "Pegordet börjar på Fi…",
+      "syllablePlusHint": "FICKA = F(8) + K(7)",
+      "decode": "Sweet Child o’ Mine (Guns N’ Roses): FICKA = F(8)+K(7) = 87 → 1987. Jeansfickan bär hitens söta godisbarn genom rosorna. (Samma år som With or Without You och Pour Some Sugar — Appetite for Destruction kom 1987, Hitster räknar första utgivningen!)",
       "image": "artal-sweet-child-o-mine"
     },
     {
@@ -444,5 +444,5 @@
       "image": "artal-pour-some-sugar"
     }
   ],
-  "version": 2
+  "version": 3
 }
