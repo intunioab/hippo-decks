@@ -7,6 +7,13 @@
       "version": 3,
       "cardCount": 40,
       "url": "decks/deck1-band/deck.json"
+    },
+    {
+      "id": "deck2-siffror",
+      "name": "Sifferbiblioteket",
+      "version": 1,
+      "cardCount": 10,
+      "url": "decks/deck2-siffror/deck.json"
     }
   ]
 }
