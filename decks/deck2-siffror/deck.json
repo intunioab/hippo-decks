@@ -2,7 +2,7 @@
   "id": "deck2-siffror",
   "name": "Sifferbiblioteket",
   "info": "Ljudkoden 0–9 och hela pegbiblioteket 00–99. Major-systemet med svensk ljudmappning.",
-  "version": 9,
+  "version": 10,
   "cards": [
     {
       "id": "kod-0",
