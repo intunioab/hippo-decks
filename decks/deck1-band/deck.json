@@ -165,7 +165,7 @@
       "semanticHint": "Tidigt 70-tal",
       "syllableHint": "Pegordet börjar på Ka…",
       "syllablePlusHint": "KATT = K(7) + T(1)",
-      "decode": "Brown Sugar (The Rolling Stones): KATT = 71 → 1971. Katten badar i hitens farinsocker. (Samma år som Stairway!)",
+      "decode": "Brown Sugar (The Rolling Stones): KATT = 71 → 1971. Katten badar i hitens farinsocker.",
       "image": "artal-brown-sugar"
     },
     {
@@ -176,7 +176,7 @@
       "semanticHint": "Mitten av 70-talet",
       "syllableHint": "Pegordet börjar på Ko…",
       "syllablePlusHint": "KOJA = K(7) + J(6)",
-      "decode": "Hotel California (Eagles): KOJA = 76 → 1976. Örnarna fick kojan när hotellet var fullbokat. (Samma år som Dancing Queen!)",
+      "decode": "Hotel California (Eagles): KOJA = 76 → 1976. Örnarna fick kojan när hotellet var fullbokat.",
       "image": "artal-hotel-california"
     },
     {
@@ -220,7 +220,7 @@
       "semanticHint": "Sent 70-tal",
       "syllableHint": "Pegordet börjar på Ka…",
       "syllablePlusHint": "KAKA = K(7) + K(7)",
-      "decode": "Stayin’ Alive (Bee Gees): KAKA = 77 → 1977. Bina bär kakan i discotakt. (Samma år som Dreams!)",
+      "decode": "Stayin’ Alive (Bee Gees): KAKA = 77 → 1977. Bina bär kakan i discotakt.",
       "image": "artal-stayin-alive"
     },
     {
@@ -363,7 +363,7 @@
       "semanticHint": "Mitten av 80-talet",
       "syllableHint": "Pegordet börjar på Fu…",
       "syllablePlusHint": "FUJI = F(8) + J(6)",
-      "decode": "Livin’ on a Prayer (Bon Jovi): FUJI = 86 → 1986. Jon lever på bönen och klamrar sig fast vid radbandet på Fujis sluttning. (Samma år som Final Countdown!)",
+      "decode": "Livin’ on a Prayer (Bon Jovi): FUJI = 86 → 1986. Jon lever på bönen och klamrar sig fast vid radbandet på Fujis sluttning.",
       "image": "artal-livin-on-a-prayer"
     },
     {
@@ -374,7 +374,7 @@
       "semanticHint": "Sent 80-tal",
       "syllableHint": "Pegordet börjar på Fi…",
       "syllablePlusHint": "FICKA = F(8) + K(7)",
-      "decode": "Sweet Child o’ Mine (Guns N’ Roses): FICKA = F(8)+K(7) = 87 → 1987. Jeansfickan bär hitens söta godisbarn genom rosorna. (Samma år som With or Without You och Pour Some Sugar — Appetite for Destruction kom 1987, Hitster räknar första utgivningen!)",
+      "decode": "Sweet Child o’ Mine (Guns N’ Roses): FICKA = F(8)+K(7) = 87 → 1987. Jeansfickan bär hitens söta godisbarn genom rosorna.",
       "image": "artal-sweet-child-o-mine"
     },
     {
@@ -407,7 +407,7 @@
       "semanticHint": "Tidigt 80-tal",
       "syllableHint": "Pegordet: FM…",
       "syllablePlusHint": "FM = F(8) + M(3)",
-      "decode": "Burning Down the House (Talking Heads): FM = 83 → 1983. FM-radions antenn blir de pratande huvudena som sänder eld och bränner ner huset. (Samma år som Every Breath You Take!)",
+      "decode": "Burning Down the House (Talking Heads): FM = 83 → 1983. FM-radions antenn blir de pratande huvudena som sänder eld och bränner ner huset.",
       "image": "artal-burning-down-the-house"
     },
     {
@@ -418,7 +418,7 @@
       "semanticHint": "Mitten av 80-talet",
       "syllableHint": "Pegordet börjar på Va…",
       "syllablePlusHint": "VAL = V(8) + L(5)",
-      "decode": "Everybody Wants to Rule the World (Tears for Fears): VAL = 85 → 1985. Valen lyfter hitens tårvärld medan alla slåss om att få ”rule” den med linjaler. (Samma år som Take On Me!)",
+      "decode": "Everybody Wants to Rule the World (Tears for Fears): VAL = 85 → 1985. Valen lyfter hitens tårvärld medan alla slåss om att få ”rule” den med linjaler.",
       "image": "artal-rule-the-world"
     },
     {
@@ -429,7 +429,7 @@
       "semanticHint": "Tidigt 80-tal",
       "syllableHint": "Pegordet: FM…",
       "syllablePlusHint": "FM = F(8) + M(3)",
-      "decode": "Sweet Dreams (Eurythmics): FM = 83 → 1983. FM-radion spelar rytmen som vaggar Annie in i den söta drömmen. (Samma år som Every Breath You Take!)",
+      "decode": "Sweet Dreams (Eurythmics): FM = 83 → 1983. FM-radion spelar rytmen som vaggar Annie in i den söta drömmen.",
       "image": "artal-sweet-dreams"
     },
     {
@@ -440,9 +440,9 @@
       "semanticHint": "Sent 80-tal",
       "syllableHint": "Pegordet börjar på Fi…",
       "syllablePlusHint": "FICKA = F(8) + K(7)",
-      "decode": "Pour Some Sugar on Me (Def Leppard): FICKA = 87 → 1987. Den döva leoparden sitter i fickan och fyller den med hitens socker. (Samma år som With or Without You!)",
+      "decode": "Pour Some Sugar on Me (Def Leppard): FICKA = 87 → 1987. Den döva leoparden sitter i fickan och fyller den med hitens socker.",
       "image": "artal-pour-some-sugar"
     }
   ],
-  "version": 3
+  "version": 4
 }

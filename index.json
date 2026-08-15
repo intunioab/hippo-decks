@@ -4,7 +4,7 @@
     {
       "id": "deck1-band",
       "name": "Bandet bakom låten",
-      "version": 3,
+      "version": 4,
       "cardCount": 40,
       "url": "decks/deck1-band/deck.json"
     },
