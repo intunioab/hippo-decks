@@ -11,8 +11,8 @@
     {
       "id": "deck2-siffror",
       "name": "Sifferbiblioteket",
-      "version": 7,
-      "cardCount": 130,
+      "version": 8,
+      "cardCount": 150,
       "url": "decks/deck2-siffror/deck.json"
     }
   ]
