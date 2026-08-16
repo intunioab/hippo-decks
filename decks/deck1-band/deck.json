@@ -1,7 +1,7 @@
 {
   "id": "deck1-band",
   "name": "Bandet bakom låten",
-  "info": "10 klassiska 70-talsband + deras genombrottsår. Pilotdecket.",
+  "info": "20 klassiska låtar: vilket band som ligger bakom, och vilket år låten kom.",
   "cards": [
     {
       "id": "band-led-zeppelin",
@@ -12,7 +12,7 @@
       "syllableHint": "Led…",
       "syllablePlusHint": "Led Zepp…",
       "decode": "Zeppelinaren är av BLY (lead) och sjunker — Page spelar på en boksida, Plant sjunger i en planta. Trappan upp är största hiten.",
-      "image": "led-zeppelin"
+      "image": "stairway-to-heaven"
     },
     {
       "id": "band-abba",
@@ -22,8 +22,8 @@
       "semanticHint": "Svenskt popband, fyra medlemmar",
       "syllableHint": "Ab…",
       "syllablePlusHint": "ABB…",
-      "decode": "Fyra ABBOrrar som danspartners = ABBA. Kronan på den blonda sångerskan = Dancing Queen.",
-      "image": "abba"
+      "decode": "De fyra i vita scenkläder dansar med en ABBOrre = ABBA. Kronan på den blonda sångerskan = Dancing Queen.",
+      "image": "dancing-queen"
     },
     {
       "id": "band-queen",
@@ -34,7 +34,7 @@
       "syllableHint": "Qu…",
       "syllablePlusHint": "Quee…",
       "decode": "Freddie utklädd till drottning = Queen. Kvicksilvret = Freddie Mercury. Operakören = Bohemian Rhapsody.",
-      "image": "queen"
+      "image": "bohemian-rhapsody"
     },
     {
       "id": "band-pink-floyd",
@@ -45,18 +45,18 @@
       "syllableHint": "Pink…",
       "syllablePlusHint": "Pink Flo…",
       "decode": "En rosa FLOD = Pink Floyd. Den slår sig genom väggen = Another Brick in the Wall. Prismat och månens baksida = deras kändaste album.",
-      "image": "pink-floyd"
+      "image": "another-brick-in-the-wall"
     },
     {
       "id": "band-rolling-stones",
       "type": "band",
-      "cue": "Vilket band ligger bakom ”Brown Sugar”?",
+      "cue": "Vilket band ligger bakom ”Paint It, Black”?",
       "answer": "The Rolling Stones",
       "semanticHint": "Brittiskt rockband, tunga som logga, Mick",
       "syllableHint": "Ro…",
       "syllablePlusHint": "Rolling Sto…",
-      "decode": "Jagger JAGAR de RULLANDE STENARNA (med tung-loggan) = The Rolling Stones. Farinsockret = Brown Sugar.",
-      "image": "rolling-stones"
+      "decode": "Jagger målar de RULLANDE STENARNA (med tung-loggan) svarta = The Rolling Stones. Färgrullen full av svart färg = Paint It, Black.",
+      "image": "paint-it-black"
     },
     {
       "id": "band-eagles",
@@ -67,7 +67,7 @@
       "syllableHint": "Ea…",
       "syllablePlusHint": "Eag…",
       "decode": "Örnarna = Eagles. De checkar in på Hotel California — men dörren saknar handtag: ”you can never leave”.",
-      "image": "eagles"
+      "image": "hotel-california"
     },
     {
       "id": "band-fleetwood-mac",
@@ -77,8 +77,8 @@
       "semanticHint": "Brittisk-amerikanskt band, albumet Rumours, Stevie Nicks",
       "syllableHint": "Fleet…",
       "syllablePlusHint": "Fleetwood…",
-      "decode": "En FLOTTA (fleet) av TRÄ (wood) bär en Big MAC = Fleetwood Mac. Stevie Nicks vaggar burgaren som drömmer = Dreams.",
-      "image": "fleetwood-mac"
+      "decode": "En FLOTTA (fleet) av TRÄ (wood) bär en Big MAC = Fleetwood Mac. Tamburinen och den svarta sjalen är Stevie Nicks, och burgaren sover och drömmer = Dreams.",
+      "image": "dreams"
     },
     {
       "id": "band-deep-purple",
@@ -89,7 +89,7 @@
       "syllableHint": "Deep…",
       "syllablePlusHint": "Deep Pur…",
       "decode": "DJUPT + LILA = Deep Purple. Röken på vattnet = Smoke on the Water (casinobranden vid Genèvesjön).",
-      "image": "deep-purple"
+      "image": "smoke-on-the-water"
     },
     {
       "id": "band-black-sabbath",
@@ -99,8 +99,8 @@
       "semanticHint": "Brittiskt hårdrocksband, Ozzy, hårdrockens födelse",
       "syllableHint": "Black…",
       "syllablePlusHint": "Black Sab…",
-      "decode": "En helsvart SABBATsmiddag = Black Sabbath. Ozzy som vaktar över axeln = Paranoid. Fladdermusen på tallriken vet varför den är nervös.",
-      "image": "black-sabbath"
+      "decode": "En helsvart SABBATsmiddag = Black Sabbath. Ozzy som vaktar över axeln efter skuggorna = Paranoid.",
+      "image": "paranoid"
     },
     {
       "id": "band-bee-gees",
@@ -111,7 +111,7 @@
       "syllableHint": "Bee…",
       "syllablePlusHint": "Bee Gee…",
       "decode": "Tre BIN (bees) med G-klavar = Bee Gees (bröderna Gibb). Discostruttandet = Stayin’ Alive.",
-      "image": "bee-gees"
+      "image": "stayin-alive"
     },
     {
       "id": "artal-stairway",
@@ -122,7 +122,7 @@
       "syllableHint": "Pegordet börjar på Ka…",
       "syllablePlusHint": "KATT = K(7) + T(1)",
       "decode": "Stairway to Heaven (Led Zeppelin): KATT = K(7)+T(1) = 71 → 1971. Katten klättrar hitens trappa.",
-      "image": "artal-stairway"
+      "image": "stairway-to-heaven"
     },
     {
       "id": "artal-dancing-queen",
@@ -132,8 +132,8 @@
       "semanticHint": "Mitten av 70-talet",
       "syllableHint": "Pegordet börjar på Ko…",
       "syllablePlusHint": "KOJA = K(7) + J(6)",
-      "decode": "Dancing Queen (ABBA): KOJA = K(7)+J(6) = 76 → 1976. Kron-abborren (Dancing Queen) har flyttat in i kojan.",
-      "image": "artal-dancing-queen"
+      "decode": "Dancing Queen (ABBA): KOJA = K(7)+J(6) = 76 → 1976. Kojan på styltor står mitt på discogolvet med repstegen nere.",
+      "image": "dancing-queen"
     },
     {
       "id": "artal-bohemian-rhapsody",
@@ -144,7 +144,7 @@
       "syllableHint": "Pegordet börjar på Kå…",
       "syllablePlusHint": "KÅL = K(7) + L(5)",
       "decode": "Bohemian Rhapsody (Queen): KÅL = K(7)+L(5) = 75 → 1975. Kvicksilverkören kröner kålen.",
-      "image": "artal-bohemian-rhapsody"
+      "image": "bohemian-rhapsody"
     },
     {
       "id": "artal-another-brick",
@@ -155,18 +155,18 @@
       "syllableHint": "Pegordet börjar på Ko…",
       "syllablePlusHint": "KOPP = K(7) + P(9)",
       "decode": "Another Brick in the Wall (Pink Floyd): KOPP = K(7)+P(9) = 79 → 1979. Koppen fångar hitens rosa flod i väggen.",
-      "image": "artal-another-brick"
+      "image": "another-brick-in-the-wall"
     },
     {
-      "id": "artal-brown-sugar",
+      "id": "artal-paint-it-black",
       "type": "artal",
-      "cue": "Vilket år kom ”Brown Sugar” (The Rolling Stones)?",
-      "answer": "1971",
-      "semanticHint": "Tidigt 70-tal",
-      "syllableHint": "Pegordet börjar på Ka…",
-      "syllablePlusHint": "KATT = K(7) + T(1)",
-      "decode": "Brown Sugar (The Rolling Stones): KATT = 71 → 1971. Katten badar i hitens farinsocker.",
-      "image": "artal-brown-sugar"
+      "cue": "Vilket år kom ”Paint It, Black” (The Rolling Stones)?",
+      "answer": "1966",
+      "semanticHint": "Mitten av 60-talet",
+      "syllableHint": "Pegordet börjar på Jo…",
+      "syllablePlusHint": "JOJO = J(6) + J(6)",
+      "decode": "Paint It, Black (The Rolling Stones): JOJO = J(6)+J(6) = 66 → 1966. Den röda jojon snurrar genom den svarta färgen medan stenarna målas.",
+      "image": "paint-it-black"
     },
     {
       "id": "artal-hotel-california",
@@ -177,7 +177,7 @@
       "syllableHint": "Pegordet börjar på Ko…",
       "syllablePlusHint": "KOJA = K(7) + J(6)",
       "decode": "Hotel California (Eagles): KOJA = 76 → 1976. Örnarna fick kojan när hotellet var fullbokat.",
-      "image": "artal-hotel-california"
+      "image": "hotel-california"
     },
     {
       "id": "artal-dreams",
@@ -188,7 +188,7 @@
       "syllableHint": "Pegordet börjar på Ka…",
       "syllablePlusHint": "KAKA = K(7) + K(7)",
       "decode": "Dreams (Fleetwood Mac): KAKA = K(7)+K(7) = 77 → 1977. Big Mac:en drömmer med kakan i famnen.",
-      "image": "artal-dreams"
+      "image": "dreams"
     },
     {
       "id": "artal-smoke-on-the-water",
@@ -199,7 +199,7 @@
       "syllableHint": "Pegordet börjar på Ka…",
       "syllablePlusHint": "KANIN = K(7) + N(2)",
       "decode": "Smoke on the Water (Deep Purple): KANIN = K(7)+N(2) = 72 → 1972. Kaninen paddlar i hitens rök-på-vattnet.",
-      "image": "artal-smoke-on-the-water"
+      "image": "smoke-on-the-water"
     },
     {
       "id": "artal-paranoid",
@@ -210,7 +210,7 @@
       "syllableHint": "Pegordet börjar på Gå…",
       "syllablePlusHint": "GÅS = G(7) + S(0)",
       "decode": "Paranoid (Black Sabbath): GÅS = G(7)+S(0) = 70 → 1970. Gåsen har tagit över paranoian vid sabbatsbordet.",
-      "image": "artal-paranoid"
+      "image": "paranoid"
     },
     {
       "id": "artal-stayin-alive",
@@ -221,7 +221,7 @@
       "syllableHint": "Pegordet börjar på Ka…",
       "syllablePlusHint": "KAKA = K(7) + K(7)",
       "decode": "Stayin’ Alive (Bee Gees): KAKA = 77 → 1977. Bina bär kakan i discotakt.",
-      "image": "artal-stayin-alive"
+      "image": "stayin-alive"
     },
     {
       "id": "band-a-ha",
@@ -232,7 +232,7 @@
       "syllableHint": "a…",
       "syllablePlusHint": "a-h…",
       "decode": "Sångarens plötsliga ”AHA!” = a-ha. Teckningsfiguren som bokstavligen tar honom med sig = Take On Me.",
-      "image": "a-ha"
+      "image": "take-on-me"
     },
     {
       "id": "band-europe",
@@ -243,7 +243,7 @@
       "syllableHint": "Eu…",
       "syllablePlusHint": "Euro…",
       "decode": "Bandet spelar på Europas kontinent = Europe. Raketens sista signallampa = The Final Countdown.",
-      "image": "europe"
+      "image": "the-final-countdown"
     },
     {
       "id": "band-bon-jovi",
@@ -254,7 +254,7 @@
       "syllableHint": "Bon…",
       "syllablePlusHint": "Bon Jo…",
       "decode": "Den gladlynta benknotan — ett ”jovialt bone” — pekar mot Bon Jovi. Jon lever bokstavligen på en bön = Livin’ on a Prayer.",
-      "image": "bon-jovi"
+      "image": "livin-on-a-prayer"
     },
     {
       "id": "band-guns-n-roses",
@@ -265,7 +265,7 @@
       "syllableHint": "Guns…",
       "syllablePlusHint": "Guns N’ Ro…",
       "decode": "Vapnen skjuter ROSOR = Guns N’ Roses. Rosorna bär en unge gjord av godis = Sweet Child o’ Mine.",
-      "image": "guns-n-roses"
+      "image": "sweet-child-o-mine"
     },
     {
       "id": "band-the-police",
@@ -276,7 +276,7 @@
       "syllableHint": "Po…",
       "syllablePlusHint": "Poli…",
       "decode": "Sting och hans kollega är bokstavligen The Police. Polisen registrerar vartenda andetag Sting tar = Every Breath You Take.",
-      "image": "the-police"
+      "image": "every-breath-you-take"
     },
     {
       "id": "band-u2",
@@ -287,7 +287,7 @@
       "syllableHint": "U…",
       "syllablePlusHint": "U-t…",
       "decode": "Bono och The Edge = U2. Bono står inne i hjärtat men sträcker sig efter The Edge utanför = With or Without You. Gitarristen står bokstavligen på kanten = The Edge.",
-      "image": "u2"
+      "image": "with-or-without-you"
     },
     {
       "id": "band-talking-heads",
@@ -298,7 +298,7 @@
       "syllableHint": "Talk…",
       "syllablePlusHint": "Talking He…",
       "decode": "En slang av pratande huvuden = Talking Heads. Deras prat blåser eld som bränner ner huset = Burning Down the House.",
-      "image": "talking-heads"
+      "image": "burning-down-the-house"
     },
     {
       "id": "band-tears-for-fears",
@@ -309,7 +309,7 @@
       "syllableHint": "Tears…",
       "syllablePlusHint": "Tears for…",
       "decode": "TÅRARNA kommer ur deras RÄDSLOR = Tears for Fears. Alla drar i linjaler — ”rulers” — för att få styra världen = Everybody Wants to Rule the World.",
-      "image": "tears-for-fears"
+      "image": "everybody-wants-to-rule-the-world"
     },
     {
       "id": "band-eurythmics",
@@ -320,7 +320,7 @@
       "syllableHint": "Eu…",
       "syllablePlusHint": "Euryth…",
       "decode": "Annie Lennox och Dave Stewart = Eurythmics. Dave skapar rytmen som går genom godissängen där Annie har bokstavligt Sweet Dreams.",
-      "image": "eurythmics"
+      "image": "sweet-dreams"
     },
     {
       "id": "band-def-leppard",
@@ -331,7 +331,7 @@
       "syllableHint": "Def…",
       "syllablePlusHint": "Def Lepp…",
       "decode": "En döv leopard = ”deaf leopard” = Def Leppard. Den hör fel och häller sockret över sig själv = Pour Some Sugar on Me.",
-      "image": "def-leppard"
+      "image": "pour-some-sugar-on-me"
     },
     {
       "id": "artal-take-on-me",
@@ -342,7 +342,7 @@
       "syllableHint": "Pegordet börjar på Va…",
       "syllablePlusHint": "VAL = V(8) + L(5)",
       "decode": "Take On Me (a-ha): VAL = V(8)+L(5) = 85 → 1985. Valen tar bokstavligen Morten med sig in i hitens teckningsvärld.",
-      "image": "artal-take-on-me"
+      "image": "take-on-me"
     },
     {
       "id": "artal-final-countdown",
@@ -353,7 +353,7 @@
       "syllableHint": "Pegordet börjar på Fu…",
       "syllablePlusHint": "FUJI = F(8) + J(6)",
       "decode": "The Final Countdown (Europe): FUJI = F(8)+J(6) = 86 → 1986. Hitens raket skjuter upp genom Fujis snötopp i sista nedräkningsögonblicket.",
-      "image": "artal-final-countdown"
+      "image": "the-final-countdown"
     },
     {
       "id": "artal-livin-on-a-prayer",
@@ -364,7 +364,7 @@
       "syllableHint": "Pegordet börjar på Fu…",
       "syllablePlusHint": "FUJI = F(8) + J(6)",
       "decode": "Livin’ on a Prayer (Bon Jovi): FUJI = 86 → 1986. Jon lever på bönen och klamrar sig fast vid radbandet på Fujis sluttning.",
-      "image": "artal-livin-on-a-prayer"
+      "image": "livin-on-a-prayer"
     },
     {
       "id": "artal-sweet-child-o-mine",
@@ -375,7 +375,7 @@
       "syllableHint": "Pegordet börjar på Fi…",
       "syllablePlusHint": "FICKA = F(8) + K(7)",
       "decode": "Sweet Child o’ Mine (Guns N’ Roses): FICKA = F(8)+K(7) = 87 → 1987. Jeansfickan bär hitens söta godisbarn genom rosorna.",
-      "image": "artal-sweet-child-o-mine"
+      "image": "sweet-child-o-mine"
     },
     {
       "id": "artal-every-breath-you-take",
@@ -386,7 +386,7 @@
       "syllableHint": "Pegordet: FM…",
       "syllablePlusHint": "FM = F(8) + M(3)",
       "decode": "Every Breath You Take (The Police): FM = F(8)+M(3) = 83 → 1983. FM-radion tar emot och sänder ut vartenda andetag från Sting.",
-      "image": "artal-every-breath-you-take"
+      "image": "every-breath-you-take"
     },
     {
       "id": "artal-with-or-without-you",
@@ -397,7 +397,7 @@
       "syllableHint": "Pegordet börjar på Fi…",
       "syllablePlusHint": "FICKA = F(8) + K(7)",
       "decode": "With or Without You (U2): FICKA = F(8)+K(7) = 87 → 1987. Bono sitter inne i fickan och hjärtat men sträcker sig mot The Edge utanför = With or Without You.",
-      "image": "artal-with-or-without-you"
+      "image": "with-or-without-you"
     },
     {
       "id": "artal-burning-down-the-house",
@@ -408,7 +408,7 @@
       "syllableHint": "Pegordet: FM…",
       "syllablePlusHint": "FM = F(8) + M(3)",
       "decode": "Burning Down the House (Talking Heads): FM = 83 → 1983. FM-radions antenn blir de pratande huvudena som sänder eld och bränner ner huset.",
-      "image": "artal-burning-down-the-house"
+      "image": "burning-down-the-house"
     },
     {
       "id": "artal-rule-the-world",
@@ -419,7 +419,7 @@
       "syllableHint": "Pegordet börjar på Va…",
       "syllablePlusHint": "VAL = V(8) + L(5)",
       "decode": "Everybody Wants to Rule the World (Tears for Fears): VAL = 85 → 1985. Valen lyfter hitens tårvärld medan alla slåss om att få ”rule” den med linjaler.",
-      "image": "artal-rule-the-world"
+      "image": "everybody-wants-to-rule-the-world"
     },
     {
       "id": "artal-sweet-dreams",
@@ -430,7 +430,7 @@
       "syllableHint": "Pegordet: FM…",
       "syllablePlusHint": "FM = F(8) + M(3)",
       "decode": "Sweet Dreams (Eurythmics): FM = 83 → 1983. FM-radion spelar rytmen som vaggar Annie in i den söta drömmen.",
-      "image": "artal-sweet-dreams"
+      "image": "sweet-dreams"
     },
     {
       "id": "artal-pour-some-sugar",
@@ -441,8 +441,8 @@
       "syllableHint": "Pegordet börjar på Fi…",
       "syllablePlusHint": "FICKA = F(8) + K(7)",
       "decode": "Pour Some Sugar on Me (Def Leppard): FICKA = 87 → 1987. Den döva leoparden sitter i fickan och fyller den med hitens socker.",
-      "image": "artal-pour-some-sugar"
+      "image": "pour-some-sugar-on-me"
     }
   ],
-  "version": 4
+  "version": 5
 }
